@@ -1,3 +1,31 @@
 body{
     background-color: rgb(53, 64, 158);
+    text-align: center;
+    color: whitesmoke;
+    margin: 0px;
+}
+
+table{
+    background-color: rgb(32, 86, 148);
+    display: inline-table;
+    border-radius: 8pxyyy
+}
+
+h1 {
+    text-align: center;
+}
+
+#countries{
+    max-width: max-content;
+    padding-left: 380px;
+}
+
+footer{
+    background-color: rgb(75, 70, 70);
+    color: white;
+    margin: 0px;
+}
+
+.facts{
+    list-style: none;
 }
