@@ -16,8 +16,11 @@ h1 {
 }
 
 #countries{
-    max-width: max-content;
-    padding-left: 380px;
+   align-items: center;
+   list-style: none;
+   padding: 0px;
+   max-width: fit-content;
+   padding-left: 600px;
 }
 
 footer{
@@ -27,5 +30,9 @@ footer{
 }
 
 .facts{
-    list-style: none;
+    align-items: center;
+   list-style: none;
+   padding: 0px;
+   max-width: fit-content;
+   padding-left: 620px;
 }
