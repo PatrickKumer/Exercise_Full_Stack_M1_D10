@@ -51,4 +51,13 @@ printTitle("31 ")
 
 let getCountry = document.getElementById('countries')
 
-printTitle("31")
+printTitle("32")
+
+let getTd = document.getElementsByTagName('td')
+
+printTitle("33")
+
+const writeText = function(){
+    let loop = document.getElementsByTagName('td')
+    
+}
