@@ -33,4 +33,6 @@ printTitle("24")
 
 let arr = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J",]
 
+printTitle("25")
+
 console.log(arr)
