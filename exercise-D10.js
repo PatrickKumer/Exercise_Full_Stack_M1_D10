@@ -46,3 +46,9 @@ const random = function(){
 let array = [random()]
 
 console.log(array)
+
+printTitle("31 ")
+
+let getCountry = document.getElementById('countries')
+
+printTitle("31")
