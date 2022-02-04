@@ -22,3 +22,9 @@ let personal = {
 }
 
 console.log(personal)
+
+printTitle("23")
+
+delete personal.email
+
+console.log(personal)
