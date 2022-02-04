@@ -36,3 +36,13 @@ let arr = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J",]
 printTitle("25")
 
 console.log(arr)
+
+printTitle("26")
+
+const random = function(){
+    let randomNumber = Math.floor(Math.random() * 100)
+    return randomNumber
+}
+let array = [random()]
+
+console.log(array)
