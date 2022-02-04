@@ -28,3 +28,9 @@ printTitle("23")
 delete personal.email
 
 console.log(personal)
+
+printTitle("24")
+
+let arr = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J",]
+
+console.log(arr)
